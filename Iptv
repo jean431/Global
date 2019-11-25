@@ -1,0 +1,142 @@
+#EXTM3U
+#EXTINF:-1,Infosport
+http://stream.tvtap.live:8081/live/fr-infosports.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA3OjA2OjExIFBNJmhhc2hfdmFsdWU9aVNDeTh2am9OcmQrbFUxRGU5RURlUT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1,Canalplus Sports
+http://stream.tvtap.live:8081/live/fr-canaplus-sport.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA2OjUwOjI2IFBNJmhhc2hfdmFsdWU9UTBDQU1mTnZOZ1ZtMlNiMk9YbERiQT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,BeinSport 1
+http://stream.tvtap.live:8081/live/fr-beinsport1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA2OjM3OjI1IFBNJmhhc2hfdmFsdWU9aW5jM3pJN0RtTDJxOEplSmttaE93dz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,BeinSport 2
+http://stream.tvtap.live:8081/live/fr-beinsport2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA2OjM5OjEwIFBNJmhhc2hfdmFsdWU9WXhWdzFMdXZiaXZDYmFxSU5aRk1Jdz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,BeinSport 3
+http://stream.tvtap.live:8081/live/fr-beinsport3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA2OjQwOjAwIFBNJmhhc2hfdmFsdWU9M3l2dW1ESnRBYTVlQi9TbGgrM1o2dz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,BeinMax 4
+http://stream.tvtap.live:8081/live/fr-beinmax4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA2OjQwOjU2IFBNJmhhc2hfdmFsdWU9SmNwY3pCeitvaGMwMEw5R2xJRW1OUT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,BeinMax 5
+http://stream.tvtap.live:8081/live/fr-beinmax5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA2OjQxOjUyIFBNJmhhc2hfdmFsdWU9TmFrWmU3MmxzWWtjcC9jZjNOR2I3UT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,BeinMax 6
+http://stream.tvtap.live:8081/live/fr-beinmax6.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA2OjQyOjM5IFBNJmhhc2hfdmFsdWU9ZFVKcVBROVlwT0FWbEtKL1ZUbFZGdz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,BeinMax 7
+http://stream.tvtap.live:8081/live/fr-beinmax7.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA2OjQzOjI3IFBNJmhhc2hfdmFsdWU9cWovc1FrMXJ6Vlp3M1o4RkV5cWl3Zz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,RMC sport 1
+http://stream.tvtap.live:8081/live/fr-sfr1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA3OjE5OjA4IFBNJmhhc2hfdmFsdWU9SFpvcVlXL3I3Q200bFZOREJUMDd2QT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,RMC sport 2
+http://stream.tvtap.live:8081/live/fr-sfr2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA3OjIxOjE3IFBNJmhhc2hfdmFsdWU9dU5lQzFCakhvS09IVUcwNmhXd0Vadz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,RMC sport 3
+http://stream.tvtap.live:8081/live/fr-sfr3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA3OjI0OjEyIFBNJmhhc2hfdmFsdWU9eURicnBLOXhCQnQ1QXZVM3l1U0dsQT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1,Arte
+http://stream.tvtap.live:8081/live/fr-arte.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA2OjM1OjQ4IFBNJmhhc2hfdmFsdWU9ODRCZzgrRlJHUkJDdDFsYkorQ0w1UT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,C8
+http://stream.tvtap.live:8081/live/fr-c8.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA2OjQ0OjE3IFBNJmhhc2hfdmFsdWU9OFZyMXkrYXY4MWxmSWM2R214KzFkUT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,Canal+
+http://stream.tvtap.live:8081/live/fr-canaplus.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA2OjQ1OjA3IFBNJmhhc2hfdmFsdWU9QUZ2aURpd3RuMjd4MWg4ZW82NVFwdz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,Canalplus Cinema
+http://stream.tvtap.live:8081/live/fr-canalplus-cinema.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA2OjQ1OjUyIFBNJmhhc2hfdmFsdWU9YjFtbjBwbFU2VmpFS2RwTVViNmV4dz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,Canalplus Cinema
+http://stream.tvtap.live:8081/live/fr-canalplus-famiz.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA2OjQ3OjA5IFBNJmhhc2hfdmFsdWU9bUN0UFB3R0R2SDJnNmtnUGhOM1loUT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,Canalplus Family
+http://stream.tvtap.live:8081/live/fr-canalplus-famiz.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA2OjQ3OjU3IFBNJmhhc2hfdmFsdWU9ZitVbE1SNG1Lc3crZHBmYlJtR2crUT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,Canalplus Series
+http://stream.tvtap.live:8081/live/fr-canalplus-series.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA2OjQ5OjE4IFBNJmhhc2hfdmFsdWU9dG8vU2RJa1BCb0hkV0RxSnZBais0UT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,Cineplus Classic
+http://stream.tvtap.live:8081/live/fr-cineplus-classic.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA2OjUyOjM0IFBNJmhhc2hfdmFsdWU9WXpMUThMaXJxL2ViQTY3M3BjODlnUT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,Cineplus Emotion
+http://stream.tvtap.live:8081/live/fr-cineplus-emotion.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA2OjU1OjMzIFBNJmhhc2hfdmFsdWU9azNoMkwwSGJ1aHZnWDJvRC92eVR6Zz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,Cineplus Frisson
+http://stream.tvtap.live:8081/live/fr-cineplus-frisson.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA2OjU2OjM2IFBNJmhhc2hfdmFsdWU9VXA2MlJVUHRFQ3U1WS9VcFFlZjIzQT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,Cineplus Premier
+http://stream.tvtap.live:8081/live/fr-cineplus-premier.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA2OjU3OjM3IFBNJmhhc2hfdmFsdWU9OVFZcGFyUmk3US90Q01QRTc5U0ZKUT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,OCS geants
+http://stream.tvtap.live:8081/live/fr-ocs-geants.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA3OjExOjA3IFBNJmhhc2hfdmFsdWU9emdRZmlhQTcwMmZBRTJ3MHY0Zmhldz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,Cnews
+http://stream.tvtap.live:8081/live/cnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA2OjU4OjQzIFBNJmhhc2hfdmFsdWU9WmFRaWMvdUlnbzVERFJRbTB5VnJFQT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,Comedie+
+http://stream.tvtap.live:8081/live/fr-comedieplus.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA2OjU5OjU5IFBNJmhhc2hfdmFsdWU9ZWFpV1c4cStCTXhPQ0puQlNFR2kyQT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,Cstar
+http://stream.tvtap.live:8081/live/fr-cstar.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA3OjAxOjA3IFBNJmhhc2hfdmFsdWU9RFFyVThkKzVPcmhqTmRLUVBuS0xhZz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,Discovery Science
+http://stream.tvtap.live:8081/live/fr-discoveryscience.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA3OjAyOjA3IFBNJmhhc2hfdmFsdWU9WU53N2RJUHpRY2Jjemo3WXBubk1SQT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,Discovery Channels
+http://stream.tvtap.live:8081/live/fr-discovery.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA3OjAzOjI1IFBNJmhhc2hfdmFsdWU9YmcrS3lrN3pUb1ZjVDhJb0l6TlBjZz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,NatGeo
+http://stream.tvtap.live:8081/live/fr-natgeo.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA3OjA5OjMwIFBNJmhhc2hfdmFsdWU9clBzaGxBRmg3dG5tdHQrNUViclpodz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,Planetplus
+http://stream.tvtap.live:8081/live/fr-planeteplus.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA3OjE0OjA3IFBNJmhhc2hfdmFsdWU9WmZPSmVpc21mejBiNG9pNHRnOXRkdz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,Planetplus-CI
+http://stream.tvtap.live:8081/live/fr-planeteplus-ci.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA3OjE2OjI3IFBNJmhhc2hfdmFsdWU9bXVuQzBlZlBkditObTBoWGs1VWgzZz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,Gulli
+http://stream.tvtap.live:8081/live/fr-gulli.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA3OjA0OjM1IFBNJmhhc2hfdmFsdWU9L2lDYTlSTm5JMlJXb2RuSmYvY1cyZz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,Gong
+http://ec.playmedia.fr/gong-base/live/playlist.m3u8
+#EXTINF:-2,Gong Max
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8?fluxustv.m3u8
+#EXTINF:-2,M6
+http://stream.tvtap.live:8081/live/fr-m6.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA3OjA4OjE1IFBNJmhhc2hfdmFsdWU9enU4MDRqVmFTKzkyRW5WbGttbGVzZz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,TF1
+http://stream.tvtap.live:8081/live/fr-tf1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA3OjI2OjQxIFBNJmhhc2hfdmFsdWU9TndiZUNqREdCSlU1NmRTMjVLZVovQT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1,TF1 series films
+http://163.172.43.207:8081/hd1/live/chunks.m3u8
+#EXTINF:-2,Ushuaia TV
+http://stream.tvtap.live:8081/live/fr-ushuaiatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA3OjI4OjI5IFBNJmhhc2hfdmFsdWU9Vzg5VG1YYmNnSEZ2dHkyeGt2UTdGQT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-2,Voyage TV
+http://stream.tvtap.live:8081/live/fr-voyagetv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxOSA3OjI5OjI2IFBNJmhhc2hfdmFsdWU9ajdBMjRtQlNjWDB5a0pHc0FiY2hidz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1,france2
+http://163.172.43.207:8081/france2/live/playlist.m3u8
+#EXTINF:-1,france3
+http://163.172.43.207:8081/france3/live/playlist.m3u8
+#EXTINF:-1,france4
+http://163.172.43.207:8081/france4/live/playlist.m3u8
+#EXTINF:-1,france5
+http://163.172.43.207:8081/france5/live/playlist.m3u8
+#EXTINF:-1,France O
+http://163.172.43.207:8081/franceo/live/playlist.m3u8
+#EXTINF:-1,Cherie25
+http://163.172.43.207:8081/cherie25/live/playlist.m3u8
+#EXTINF:-1,rts1
+http://163.172.43.207:8081/rts1/live/playlist.m3u8
+#EXTINF:-1,rts2
+http://163.172.43.207:8081/rts2/live/playlist.m3u8
+#EXTINF:-1,Numero23
+http://163.172.43.207:8081/numero23/live/playlist.m3u8
+#EXTINF:-1,NRJ12
+http://163.172.43.207:8081/nrj12/live/playlist.m3u8
+#EXTINF:-1,6ter
+http://163.172.43.207:8081/6ter/live/playlist.m3u8
+#EXTINF:-1,NT1
+http://163.172.43.207:8081/nt1/live/playlist.m3u8
+#EXTINF:-1,TMC
+http://163.172.43.207:8081/tmc/live/playlist.m3u8
+#EXTINF:-1,HD1
+http://163.172.43.207:8081/hd1/live/playlist.m3u8
+#EXTINF:-1,W9
+http://163.172.43.207:8081/w9/live/playlist.m3u8
+#EXTINF:-1,RMC Découverte
+http://163.172.43.207:8081/rmcdecouverte/live/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
