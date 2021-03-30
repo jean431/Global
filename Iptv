@@ -254,7 +254,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b
 
 #EXTINF:-1 tvg-id="" tvg-name="John Wick" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg" group-title="FILM FR",John Wick
 http://188.165.227.112/portail/films/John%20Wick%20-%20Saga/John%20Wick%20(2014).mkv
-#EXTINF:-1 tvg-id="" tvg-name="JohnWick 2" tvg-logo="https://i.pinimg.com/originals/4c/10/bf/4c10bf923844ea45c49328baaf3f8a6f.jpg" group-title="FILM FR",John Wick 2
+#EXTINF:-1 tvg-id="" tvg-name="John Wick 2" tvg-logo="https://i.pinimg.com/originals/4c/10/bf/4c10bf923844ea45c49328baaf3f8a6f.jpg" group-title="FILM FR",John Wick 2
 http://188.165.227.112/portail/films/John%20Wick%20-%20Saga/John%20Wick%202%20(2017).mkv
 #EXTINF:-1 tvg-id="" tvg-name="JohnWick Parabellum" tvg-logo="https://i.pinimg.com/originals/0d/b5/9c/0db59c3ee9261d24da50ac8c4e5ccd3e.jpg" group-title="FILM FR",John Wick Parabellum
 http://188.165.227.112/portail/films/John%20Wick%20-%20Saga/John%20Wick%20-%20Parabellum%20(2019).mkv
@@ -311,7 +311,7 @@ http://stream.youp.lol/s/sIhRrRapijHVKOTfTp93YsP89e4.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Tomb Raider" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjM3M2M5MzAtMTdhMC00YzlmLWJiNWUtMTNmMzkxYjA5MjcyXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg" group-title="FILM FR",Tomb Raider
 http://stream.youp.lol/i/ltOkXWOYZoYstuKrMq44yogotHp.mp4
-#EXTINF:-1 tvg-id="" tvg-name="24H To Live" tvg-logo="https://en.m.wikipedia.org/wiki/File:24_Hours_to_Live_poster.jpg" group-title="FILM FR",24H To Live
+#EXTINF:-1 tvg-id="" tvg-name="24Hours To Live" tvg-logo="https://i.pinimg.com/474x/ec/94/f2/ec94f212393133267e2b6befa3480925.jpg" group-title="FILM FR",24Hours To Live
 http://stream.youp.lol/c/CB1BE12C9B12D73717D6412B33B32.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ghost Rider" tvg-logo="https://i.pinimg.com/originals/4b/22/8f/4b228fc6f2674f7eb7c48af2c6cbf323.jpg" group-title="FILM FR",Ghost Rider
 http://stream.youp.lol/g/Ghost%20Rider%20%20LEsprit%20de%20Vengeance%20(Ghost%20Rider%20Spirit%20of%20Vengeance).mp4
