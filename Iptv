@@ -321,10 +321,8 @@ http://stream.youp.lol/b/Black%20Panther.mp4
 http://stream.youp.lol/d/Daredevil%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Bad Guy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/The_Bad_Guys_-_Reign_of_Chaos.jpg" group-title="FILM FR",The Bad Guy
 http://stream.youp.lol/s/sH67I2kxqzpUXEQqmLl6HlAUeHM.mp4
-
 #EXTINF:-1 tvg-id="" tvg-name="World War Z" tvg-logo="https://i.pinimg.com/originals/f7/b8/b3/f7b8b335229262183ee86adf3abc0592.jpg" group-title="FILM FR",World War Z
 http://stream.youp.lol/c/cOWcEXqfrkVBzYTeARow69LCY6C.mp4
-
 #EXTINF:-1 tvg-id="" tvg-name="The Predator" tvg-logo="https://miro.medium.com/max/1838/1*JtRMzB-gDPDDRk7COonxGg.jpeg" group-title="FILM FR",The Predator
 http://stream.youp.lol/f/FBA45B814CF97E7DF218BE5358474.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hellboy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTc1ZWY0ZTEtZTVmNi00MTg0LTg4NmQtZTI4OWNiMmQ0MWZkXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UY1200_CR122,0,630,1200_AL_.jpg" group-title="FILM FR",Hellboy
@@ -439,7 +437,7 @@ http://stream.youp.lol/i/Iron%20Man%203.mp4
 http://stream.youp.lol/c/Captain%20America%20%20Civil%20War%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jurassic World" tvg-logo="https://static.toiimg.com/thumb/msid-64539776,imgsize-93700,width-800,height-600,resizemode-75/64539776.jpg" group-title="FILM FR",Jurassic World
 http://stream.youp.lol/j/Jurassic%20World%202015%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Godzilla" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/sgp-catalog-images/region_GB/wb-2069796_6000119228-Full-Image_GalleryCover-en-GB-1572950922869._UR1920,1080_RI_.jpg" group-title="FILM FR",Godzilla
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGFjYWNkMTMtMTg1ZC00Y2I4LTg0ZTYtN2ZlMzI4MGQwNzg4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="FILM FR",Godzilla
 http://stream.youp.lol/r/rmM0NovZxrIT9f6OIoUyzWwRQ1L.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Iron Sky" tvg-logo="https://flxt.tmsimg.com/assets/p9257449_p_v10_ag.jpg" group-title="FILM FR",Iron Sky
 http://stream.youp.lol/y/y45e8Sh6cVbnE7o7SEdX2e9RTQk.mp4
