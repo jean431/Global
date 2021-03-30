@@ -264,7 +264,7 @@ http://stream.youp.lol/v/vMEmvfhCnuogg26mTxD50v0kE3u.mp4
 http://stream.youp.lol/a/5kRL5nyuFCaoaztfzcDIC2ECrzy.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Deadpool 2" tvg-logo="https://i.pinimg.com/474x/69/c0/c2/69c0c22feb2a0f29b48a0572dd9eef8e.jpg" group-title="FILM FR",Deadpool 2
 http://stream.youp.lol/a/AE9659B9E598AE511135FA312731A.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Wild wild west" tvg-logo="https://en.m.wikipedia.org/wiki/File:Wild_wild_west_poster.jpg" group-title="FILM FR",Wild wild west
+#EXTINF:-1 tvg-id="" tvg-name="Wild wild west" tvg-logo="https://i.pinimg.com/originals/69/88/3e/69883ecf84be46ff303fc535972c9231.jpg" group-title="FILM FR",Wild wild west
 http://stream.youp.lol/a/5h5aYuH7xq4S0IPbDMwYxqm9kvs.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Underwater" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Underwater_poster.jpeg/220px-Underwater_poster.jpeg" group-title="FILM FR",Underwater
 http://stream.youp.lol/a/5a1WZ8qgcxw9gLJD7JQVfHeY0NN.mp4
@@ -321,8 +321,10 @@ http://stream.youp.lol/b/Black%20Panther.mp4
 http://stream.youp.lol/d/Daredevil%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Bad Guy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/The_Bad_Guys_-_Reign_of_Chaos.jpg" group-title="FILM FR",The Bad Guy
 http://stream.youp.lol/s/sH67I2kxqzpUXEQqmLl6HlAUeHM.mp4
-#EXTINF:-1 tvg-id="" tvg-name="World War Z" tvg-logo="https://en.m.wikipedia.org/wiki/File:World_War_Z_poster.jpg" group-title="FILM FR",World War Z
+
+#EXTINF:-1 tvg-id="" tvg-name="World War Z" tvg-logo="https://i.pinimg.com/originals/f7/b8/b3/f7b8b335229262183ee86adf3abc0592.jpg" group-title="FILM FR",World War Z
 http://stream.youp.lol/c/cOWcEXqfrkVBzYTeARow69LCY6C.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="The Predator" tvg-logo="https://miro.medium.com/max/1838/1*JtRMzB-gDPDDRk7COonxGg.jpeg" group-title="FILM FR",The Predator
 http://stream.youp.lol/f/FBA45B814CF97E7DF218BE5358474.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hellboy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTc1ZWY0ZTEtZTVmNi00MTg0LTg4NmQtZTI4OWNiMmQ0MWZkXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UY1200_CR122,0,630,1200_AL_.jpg" group-title="FILM FR",Hellboy
