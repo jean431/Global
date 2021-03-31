@@ -335,7 +335,7 @@ http://stream.youp.lol/f/FBA45B814CF97E7DF218BE5358474.mp4
 http://stream.youp.lol/h/Hellboy.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hellboy 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Hellboy_2_poster.jpg/220px-Hellboy_2_poster.jpg" group-title="FILM FR",Hellboy 2
 http://stream.youp.lol/h/Hellboy%20II%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="INTO THE BLUE" tvg-logo="https://i.pinimg.com/originals/90/64/1f/90641f667592acd3114f6b2e060f8357.jpg" group-title="FILM FR",INTO THE BLUE
+#EXTINF:-1 tvg-id="" tvg-name="Into the blue" tvg-logo="https://i.pinimg.com/originals/90/64/1f/90641f667592acd3114f6b2e060f8357.jpg" group-title="FILM FR",Into the blue
 http://stream.youp.lol/h/hNYEvfFEI00pbb3nSsFqFuyhl3l.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Independence Day" tvg-logo="https://c8.alamy.com/comp/EFACJT/movie-poster-independence-day-1996-EFACJT.jpg" group-title="FILM FR",Independence Day
 http://stream.youp.lol/i/Independence%20Day%20.mp4
@@ -343,7 +343,7 @@ http://stream.youp.lol/i/Independence%20Day%20.mp4
 http://stream.youp.lol/i/independence%20day%202.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Shazam" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Legosmm.jpg" group-title="Anime FR",Shazam
 http://stream.youp.lol/z/ziIyuNNNwYqv0qbOpV9VvvdnRBb.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Asterix" tvg-logo="https://fr.web.img6.acsta.net/r_512_288/pictures/14/12/05/11/15/546054.jpg" group-title="Anime FR",Asterix
+#EXTINF:-1 tvg-id="" tvg-name="Astérix Le Domain des dieux" tvg-logo="https://fr.web.img6.acsta.net/r_512_288/pictures/14/12/05/11/15/546054.jpg" group-title="Anime FR",Astérix Le domain des dieux
 http://stream.youp.lol/b/B21515BF71377649EDB88C4D3BD31.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La reine des neiges" tvg-logo="https://fr.web.img5.acsta.net/pictures/210/521/21052146_20131023144339759.jpg" group-title="Anime FR",La reine des neiges
 http://stream.youp.lol/l/La%20Reine%20des%20neiges%20(Frozen).mp4
@@ -479,6 +479,8 @@ http://stream.youp.lol/d/Dragons%203%20_%20Le%20monde%20cach%c3%a9%20%20%20-%202
 http://stream.youp.lol/b/Bernard%20et%20Bianca%20au%20pays%20des%20kangourous.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brother Bear" tvg-logo="https://d2e111jq13me73.cloudfront.net/sites/default/files/styles/product_image_aspect_switcher_170w/public/product-images/csm-movie/brother-bear-poster.jpg?itok=5kCbFING" group-title="Anime FR",Brother Bear
 http://stream.youp.lol/e/e8KTz5sBBfDoCwg8oEpC1gsBvsW.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brother Bear 2" tvg-logo="https://i.pinimg.com/originals/af/ae/37/afae37ea2d1da0e893578ddb779b1dab.jpg" group-title="Anime FR",Brother Bear 2
+http://stream.youp.lol/k/kH3kfWS1AQpitPxvFg71feOZQgi.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kuzco 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Kronk%27s_New_Groove_cover.jpg/220px-Kronk%27s_New_Groove_cover.jpg" group-title="Anime FR",Kuzco 2
 http://stream.youp.lol/e/empreur%20nouveau%20genre%202.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dory" tvg-logo="https://images.moviesanywhere.com/611537e3e390ceedd5cebdd5e584279f/48fbb099-a78c-4a97-ac04-55152ea4733a.jpg" group-title="Anime FR",Dory
