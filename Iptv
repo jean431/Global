@@ -665,3 +665,7 @@ http://stream.youp.lol/s/Short%20Circuit.mp4
 http://stream.youp.lol/s/Shout1991%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Platoon" tvg-logo="https://www.filmsite.org/posters/platoon.jpg" group-title="FILM FR",Platoon
 http://stream.youp.lol/v/vmPbjHZc1zDKUFiYUwZWlRmxAKZ.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La voleuse de livres" tvg-logo="https://i.pinimg.com/736x/ba/09/6d/ba096d2d68c5e3dda60989df8d257501.jpg" group-title="FILM FR",La voleuse de livres
+http://stream.youp.lol/l/La%20Voleuse%20de%20livres.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La ligne verte" tvg-logo="https://miro.medium.com/max/487/0*P1ek6byWf4H_40wD.jpg" group-title="FILM FR",La ligne verte
+http://stream.youp.lol/d/DA64122D5B3B931E6545A77E92184.mp4
