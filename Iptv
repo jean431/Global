@@ -444,7 +444,7 @@ http://stream.youp.lol/i/Iron%20Man%202%20.mp4
 http://stream.youp.lol/i/Iron%20Man%203.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Captain America Civilwar" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Captain_America_Civil_War_poster.jpg" group-title="Marvel",Captain America Civil War
 http://stream.youp.lol/c/Captain%20America%20%20Civil%20War%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jurassic World" tvg-logo="https://static.toiimg.com/thumb/msid-64539776,imgsize-93700,width-800,height-600,resizemode-75/64539776.jpg" group-title="FILM FR",Jurassic World
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic World" tvg-logo="https://i.pinimg.com/736x/af/fb/37/affb3750b3f8f3623f83c09e58b2efba.jpg" group-title="FILM FR",Jurassic World
 http://stream.youp.lol/j/Jurassic%20World%202015%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Godzilla" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGFjYWNkMTMtMTg1ZC00Y2I4LTg0ZTYtN2ZlMzI4MGQwNzg4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="FILM FR",Godzilla
 http://stream.youp.lol/r/rmM0NovZxrIT9f6OIoUyzWwRQ1L.mp4
@@ -558,7 +558,7 @@ http://stream.youp.lol/u/uFkBKp7wnllRXdqOMLpY7avAKQ4.mp4
 http://stream.youp.lol/m/mcJ2df14G595oqIYiSmgefvOo6d.mp4
 #EXTINF:-1 tvg-id="" tvg-name="X-MEN Apocalypse" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjU1ODM1MzYxN15BMl5BanBnXkFtZTgwOTA4NDE2ODE@._V1_.jpg" group-title="FILM FR",X-MEN Apocalypse
 http://stream.youp.lol/y/y6peThtaNd4sismIyfZWZoIWwDF.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pirate des caraibe" tvg-logo="https://i.pinimg.com/originals/1b/40/a5/1b40a5a85d77b6148a03274a9c0c5350.jpg" group-title="FILM FR",Pirate des caraibe
+#EXTINF:-1 tvg-id="" tvg-name="Pirates des caraibes la fontaine de jouvence" tvg-logo="https://i.pinimg.com/originals/75/dd/4b/75dd4b81aef82ba278ed284204dfed4d.jpg" group-title="FILM FR",Pirates des caraibes la fontaine de jouvence
 http://stream.youp.lol/v/vNRBJzEoy4i4bQ4gCZKOeMJiCAs.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tron" tvg-logo="https://i.pinimg.com/originals/ba/ae/2b/baae2bf0e12fa1181d77e0993d3ce57e.jpg" group-title="FILM FR",Tron
 http://stream.youp.lol/v/vhVvCUjBqRWbbqA3qFvT9UbloYO.mp4
@@ -582,7 +582,7 @@ http://stream.youp.lol/p/psKIBw7qcCOCVk3CASbm03JPuL6.mp4
 http://stream.youp.lol/k/kBjuLfGqNRsby9TzWQaTlAUe3LB.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tai Chi Hero" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcyNTUwNzEyOV5BMl5BanBnXkFtZTcwNDY1NjY0OQ@@._V1_.jpg" group-title="FILM FR",Tai chi Hero
 http://stream.youp.lol/k/kLfmJAxJ3oUZrqV5hMvumCj8BVM.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Matrix" tvg-logo="https://i.pinimg.com/originals/f7/b7/87/f7b78784d7a34f554ba881266e93527f.jpg" group-title="FILM FR",The Matrix
+#EXTINF:-1 tvg-id="" tvg-name="Matrix" tvg-logo="https://i.pinimg.com/originals/f7/b7/87/f7b78784d7a34f554ba881266e93527f.jpg" group-title="FILM FR",Matrix
 http://stream.youp.lol/l/LCcZvB2Ynxg7JOQgviGwZ3l66L.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Killers Anonymous" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDc5ZDkxZDUtMDFiOC00Mjg3LWFlODEtOTViN2FlZDAwMTBjXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg" group-title="FILM FR",Killers Anonymous
 http://stream.youp.lol/k/Killers%20Anonymous.mp4
@@ -590,7 +590,7 @@ http://stream.youp.lol/k/Killers%20Anonymous.mp4
 http://stream.youp.lol/l/lxB6QUCLcmAgdYbSVhpdKYbTPQA.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Half Pass Dead" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjJhOTVlNzMtODIwZi00NTI0LTkxNzUtNDczYjgyN2YzODkxXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg" group-title="FILM FR",Half Pass Dead
 http://stream.youp.lol/m/mTUWlZqkkee3A1aCvTx2LerupB1.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mad Max" tvg-logo="https://i.pinimg.com/originals/b4/a4/43/b4a4437b4f21750176666846048f0018.jpg" group-title="FILM FR",Mad Max
+#EXTINF:-1 tvg-id="" tvg-name="Mad Max Road Fury" tvg-logo="https://i.pinimg.com/originals/b4/a4/43/b4a4437b4f21750176666846048f0018.jpg" group-title="FILM FR",Mad Max Road Fury
 http://stream.youp.lol/o/oLy2V6AWSEfdPgKOtrSGnwB3Q2R.mp4
 #EXTINF:-1 tvg-id="" tvg-name="How it ends" tvg-logo="https://www.aaltadefinizione.com/uploads/posts/2020-09/28163866a7bff91622c6e7580210497a_image.jpg" group-title="FILM FR",How it ends
 http://stream.youp.lol/p/prdFM08mGvVDA6uQxKJh8n8Vek1.mp4
@@ -628,7 +628,7 @@ http://stream.youp.lol/w/wXBmw5ib6KDIOgH3TggT80nvxbe.mp4
 http://stream.youp.lol/y/yQuovle5Ov6q69XSdTNdH52eANc.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A.I Rising" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmZkOTliYTItMmNiMy00ZDU0LWIxMGQtZTIwMjNjYWI0NjNhXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg" group-title="FILM FR",A.I Rising
 http://stream.youp.lol/x/xiKtCsLO6qiQdmoGmmAQevZtLEE.mp4
-#EXTINF:-1 tvg-id="" tvg-name="M.I 3" tvg-logo="https://m.media-amazon.com/images/M/MV5BOThhNTA1YjItYzk2Ny00M2Y1LWJlYWUtZDQyZDU0YmY5Y2M5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg" group-title="FILM FR",M.I 3
+#EXTINF:-1 tvg-id="" tvg-name="Mission Impossible 3" tvg-logo="https://m.media-amazon.com/images/M/MV5BOThhNTA1YjItYzk2Ny00M2Y1LWJlYWUtZDQyZDU0YmY5Y2M5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg" group-title="FILM FR",Mission Impossible 3
 http://stream.youp.lol/z/zxaGoojqR5bpCGPMzhcsCKbEWlT.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Charlie Angel" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2VkMjQwZWMtMzc1NC00ZjJiLWJlNTMtNmRjOTE2ZTJmYzUwXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_.jpg" group-title="FILM FR",Charlie Angel
 http://stream.youp.lol/r/rrEgISlIOndEbmIuCLCuQO50qlR.mp4
@@ -731,7 +731,7 @@ http://ns334046.ip-37-187-127.eu/__dl__/_Films/vendredi%2013/Vendredi%2013%20-%2
 http://ns334046.ip-37-187-127.eu/__dl__/_Films/vendredi%2013/Vendredi%2013%20-%20Chapitre%203-%20Meurtres%20en%203%20Dimensions.avi
 #EXTINF:-1 tvg-id="" tvg-name="Vendredi 13 Chapitre Final" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Friday_the_13th_The_Final_Chapter_poster.jpg/220px-Friday_the_13th_The_Final_Chapter_poster.jpg" group-title="Horreur FR",Vendredi 13 Chapitre Final
 http://ns334046.ip-37-187-127.eu/__dl__/_Films/vendredi%2013/Vendredi%2013%20-%20Chapitre%204%20-%20Chapitre%20Final.avi
-#EXTINF:-1 tvg-id="" tvg-name="Gladiator" tvg-logo="https://i.pinimg.com/originals/1d/d9/2b/1dd92b1e9b8c465be46e83f686f46655.jpg" group-title="Horreur FR",Vendredi 13 Une Nouvelle Terreur
+#EXTINF:-1 tvg-id="" tvg-name="Vendredi 13 Une Nouvelle Terreur" tvg-logo="https://i.pinimg.com/originals/1d/d9/2b/1dd92b1e9b8c465be46e83f686f46655.jpg" group-title="Horreur FR",Vendredi 13 Une Nouvelle Terreur
 http://ns334046.ip-37-187-127.eu/__dl__/_Films/vendredi%2013/Vendredi%2013%20-%20Chapitre%205%20-%20Une%20Nouvelle%20Terreur.avi
 #EXTINF:-1 tvg-id="" tvg-name="Vendredi 13 Jason Le Mort-Vivant" tvg-logo="https://www.ecranlarge.com/uploads/image/001/128/1yq9ehodnd4wd30v1rjtu5tfrne-929.jpg" group-title="Horreur FR",Vendredi 13 Jason Le Mort-Vivant
 http://ns334046.ip-37-187-127.eu/__dl__/_Films/vendredi%2013/Vendredi%2013%20-%20Chapitre%206%20-%20Jason%20Le%20Mort-Vivant.avi
@@ -759,17 +759,19 @@ http://ns334046.ip-37-187-127.eu/__dl__/_Films/Alien%20Quadrilogie%20Truefrench%
 http://188.165.227.112/portail/films/Matrix%20Trilogie/MATRIX%20RELOADED.avi
 #EXTINF:-1 tvg-id="" tvg-name="MATRIX REVOLUTIONS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51sWzqfPYEL._AC_.jpg" group-title="FILM FR",MATRIX REVOLUTIONS
 http://188.165.227.112/portail/films/Matrix%20Trilogie/MATRIX%20REVOLUTIONS.avi
-#EXTINF:-1 tvg-id="" tvg-name="Pacific.Rim" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Qsnm2gUkL._AC_.jpg" group-title="FILM FR",Pacific.Rim
+#EXTINF:-1 tvg-id="" tvg-name="Pacific Rim" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Qsnm2gUkL._AC_.jpg" group-title="FILM FR",Pacific Rim
 http://188.165.227.112/portail/films/Pacific.Rim.mHD.MULTI.VFF.AC3.BluRay.1080.x265.HEVC-LOULOU.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The.Amazing.Spiderman" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61TUX3ObSLL._AC_.jpg" group-title="FILM FR",The.Amazing.Spiderman
+
+#EXTINF:-1 tvg-id="" tvg-name="The Amazing Spiderman" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61TUX3ObSLL._AC_.jpg" group-title="FILM FR",The Amazing Spiderman
 http://188.165.227.112/portail/films/The.Amazing.Spiderman.2012.TRUEFRENCH.DVDRip.XviD-Parker.avi
+
 #EXTINF:-1 tvg-id="" tvg-name="Kuzco, l'empereur" tvg-logo="https://i.pinimg.com/originals/3a/0d/5c/3a0d5cbde22758f3a1a1c1bfe39c1982.jpg" group-title="Anime FR",Kuzco, l'empereur
 http://188.165.227.112/portail/films/Kuzco,%20l'empereur%20m%c3%a9galo%20(2000)%20%5bMULTi%5d%20%5b1080p%5d%20BluRay%20x264-anod.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The mask" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51zKzNdNcSL._AC_.jpg" group-title="FILM FR",The mask
 http://188.165.227.112/portail/films/The%20mask.avi
-#EXTINF:-1 tvg-id="" tvg-name="les_sept_samourais" tvg-logo="https://i.pinimg.com/736x/4d/1e/04/4d1e04f55fdf383a1e5aa253fd8f7621.jpg" group-title="FILM FR",les_sept_samourais
+#EXTINF:-1 tvg-id="" tvg-name="les sept samourais" tvg-logo="https://i.pinimg.com/736x/4d/1e/04/4d1e04f55fdf383a1e5aa253fd8f7621.jpg" group-title="FILM FR",les sept samourais
 http://188.165.227.112/portail/films/les_sept_samourais.avi
-#EXTINF:-1 tvg-id="" tvg-name="V.pour.Vendetta" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51DsD-yXooL._AC_.jpg" group-title="FILM FR",V.pour.Vendetta
+#EXTINF:-1 tvg-id="" tvg-name="V pour Vendetta" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51DsD-yXooL._AC_.jpg" group-title="FILM FR",V pour Vendetta
 http://188.165.227.112/portail/films/V.pour.Vendetta(v1).mkv
 #EXTINF:-1 tvg-id="" tvg-name="The.Hunger.Games.Mockingjay.Part.1." tvg-logo="https://images-na.ssl-images-amazon.com/images/I/713YZHp1hcL._AC_SL1050_.jpg" group-title="FILM FR",The.Hunger.Games.Mockingjay.Part.1.
 http://188.165.227.112/portail/films/The.Hunger.Games.Mockingjay.Part.1.mkv
@@ -792,7 +794,7 @@ http://zoppello.fr/download/films/American%20Nightmare/American%20Nightmare%202.
 http://zoppello.fr/download/films/American%20Nightmare/The%20First%20Purge.avi
 #EXTINF:-1 tvg-id="" tvg-name="Aliens vs Predator Requiem" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81PeIPfT3kL._AC_SL1500_.jpg" group-title="FILM FR",Aliens vs Predator Requiem
 http://zoppello.fr/download/films/Aliens%20vs%20Predator%20Requiem/Aliens%20vs%20Predator%20Requiem.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ant-Man and the Wasp" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1CGAvzql5L._AC_SL1500_.jpg" group-title="Marvel",Ant-Man and the Wasp
+#EXTINF:-1 tvg-id="" tvg-name="Ant-man and the wasp" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1CGAvzql5L._AC_SL1500_.jpg" group-title="Marvel",Ant-man and the wasp
 http://zoppello.fr/download/films/Ant-Man%20and%20the%20Wasp/Ant-Man%20and%20the%20Wasp.avi
 #EXTINF:-1 tvg-id="" tvg-name="Aquaman" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71y%2BE9MaURL._AC_SL1260_.jpg" group-title="FILM FR",Aquaman
 http://zoppello.fr/download/films/Aquaman/Aquaman.avi
