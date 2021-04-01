@@ -252,7 +252,7 @@ https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/
 #EXTINF:-1tvg-id="" tvg-name="Vevo Pop (US)" tvg-logo="http://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="MUSIC",Vevo Pop (US)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="" tvg-name="John Wick" tvg-logo="https://i.pinimg.com/originals/ac/0a/7f/ac0a7f7095ab102e14fd60b2b8ed6137.jpg" group-title="FILM FR",John Wick
+#EXTINF:-1 tvg-id="" tvg-name="John Wick" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81F5PF9oHhL._AC_SL1500_.jpg" group-title="FILM FR",John Wick
 http://188.165.227.112/portail/films/John%20Wick%20-%20Saga/John%20Wick%20(2014).mkv
 #EXTINF:-1 tvg-id="" tvg-name="John Wick 2" tvg-logo="https://i.pinimg.com/originals/4c/10/bf/4c10bf923844ea45c49328baaf3f8a6f.jpg" group-title="FILM FR",John Wick 2
 http://188.165.227.112/portail/films/John%20Wick%20-%20Saga/John%20Wick%202%20(2017).mkv
@@ -260,7 +260,6 @@ http://188.165.227.112/portail/films/John%20Wick%20-%20Saga/John%20Wick%202%20(2
 http://188.165.227.112/portail/films/John%20Wick%20-%20Saga/John%20Wick%20-%20Parabellum%20(2019).mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mulan"tvg-logo="https://i.pinimg.com/originals/57/db/18/57db18b1ce912844b18a8fb6ec025d26.png" group-title="FILM FR",Mulan
 http://stream.youp.lol/v/vMEmvfhCnuogg26mTxD50v0kE3u.mp4
-
 #EXTINF:-1 tvg-id="" tvg-name="Dictator" tvg-logo="https://e7.pngegg.com/pngimages/249/837/png-clipart-aladeen-film-poster-dictator-trailer-dictator-label-film-poster.png" group-title="FILM FR",Dictator
 http://stream.youp.lol/a/5kRL5nyuFCaoaztfzcDIC2ECrzy.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Deadpool 2" tvg-logo="https://i.pinimg.com/474x/69/c0/c2/69c0c22feb2a0f29b48a0572dd9eef8e.jpg" group-title="FILM FR",Deadpool 2
@@ -582,7 +581,7 @@ http://stream.youp.lol/p/psKIBw7qcCOCVk3CASbm03JPuL6.mp4
 http://stream.youp.lol/k/kBjuLfGqNRsby9TzWQaTlAUe3LB.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tai Chi Hero" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcyNTUwNzEyOV5BMl5BanBnXkFtZTcwNDY1NjY0OQ@@._V1_.jpg" group-title="FILM FR",Tai chi Hero
 http://stream.youp.lol/k/kLfmJAxJ3oUZrqV5hMvumCj8BVM.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Matrix" tvg-logo="https://i.pinimg.com/originals/f7/b7/87/f7b78784d7a34f554ba881266e93527f.jpg" group-title="FILM FR",Matrix
+#EXTINF:-1 tvg-id="" tvg-name="MATRIX" tvg-logo="https://i.pinimg.com/originals/f7/b7/87/f7b78784d7a34f554ba881266e93527f.jpg" group-title="FILM FR",MATRIX
 http://stream.youp.lol/l/LCcZvB2Ynxg7JOQgviGwZ3l66L.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Killers Anonymous" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDc5ZDkxZDUtMDFiOC00Mjg3LWFlODEtOTViN2FlZDAwMTBjXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_.jpg" group-title="FILM FR",Killers Anonymous
 http://stream.youp.lol/k/Killers%20Anonymous.mp4
