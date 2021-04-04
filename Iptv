@@ -135,7 +135,8 @@ https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dieu TV - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/CCvzqLJ.png" group-title="Religion",Dieu TV - github.com/Free-IPTV
 https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Action Movie" tvg-logo="https://www.seekpng.com/png/small/211-2118202_http-www-indigital-co-635509582484687500-star-movies-action.png" group-title="France",Action Movie
+https://rakuten-actionmovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stormcast Novelas TV" tvg-logo="https://i.imgur.com/WpQ3N82.png" group-title="CanalSAT",Stormcast Novelas TV
 https://stormcast-telenovelatv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="5f914f9dccb4de0007df8bc4" tvg-name="Telenovela" tvg-logo="https://images.pluto.tv/channels/5f914f9dccb4de0007df8bc4/colorLogoPNG.png" group-title="CanalSAT",Telenovela
