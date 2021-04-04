@@ -189,6 +189,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb7e3d
 
 #EXTINF:-1 tvg-id="" tvg-name="TMA" tvg-logo="https://i.imgur.com/qgNyto3.jpg" group-title="MUSIC",TMA
 http://hls.tmacaraibes.com/live/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TeleHaiti" tvg-logo="http://www.haititelevision.com/wp-content/uploads/2013/04/TeleHaiti-300x217.jpg" group-title="FRANCE",TeleHaiti
+http://66.175.238.147:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Passion Fiction" tvg-logo="https://i.imgur.com/lS8tTMV.png" group-title="FRANCE",Passion Fiction
 https://endemol-passionfiction-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FUEL TV" tvg-logo="https://i.imgur.com/XboGSjX.png" group-title="FRANCE",Fuel TV
