@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Arte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Arte-Logo.svg/1280px-Arte-Logo.svg.png" group-title="CanalSAT",Arte
+#EXTINF:-1 tvg-id="" tvg-name="Arte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Arte-Logo.svg/1280px-Arte-Logo.svg.png" group-title="https://tel.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2FTEL.2Enews.2F2018.2F01.2F11.2Fee4b360f-af7d-433c-bd56-d1380aa0ec5e.2Ejpeg/1200x600/crop-from/top/quality/80/le-groupe-canal-perd-des-abonnes-en-france-la-faute-a-canalsat.jpg",Arte
+
 http://stream.tvtap.live:8081/live/fr-arte.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDExOjQ2OjQ1IEFNJmhhc2hfdmFsdWU9eWJIeW40QitYVzJndHhHUzM3VWk5dz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-id="" tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="CanalSAT",France 2
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8
