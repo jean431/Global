@@ -1097,3 +1097,6 @@ http://188.165.227.112/portail/series/Full%20Metal%20Alchemist%20-%20Brotherhood
 
 #EXTINF:-1 tvg-id="" tvg-name="RTB" tvg-logo="https://image.winudf.com/v2/image/cnRiLmFjdGl2aXRpZXNfc2NyZWVuc2hvdHNfMF81Y2M2NWMxNg/screen-0.jpg?h=500&fakeurl=1&type=.jpg" group-title="FRANCE",RTB
 https://edge8.vedge.infomaniak.com/livecast/ik:rtbtvlive1/chunklist_w1633876581.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Hood Of Horror" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMwNjUyNjE3MF5BMl5BanBnXkFtZTcwMzYyNTQ0MQ@@._V1_.jpg" group-title="Horreur FR",Hood Of Horror
+http://ns334046.ip-37-187-127.eu/__dl__/_Films/Hood%20of%20horror/Hood.Of.Horror.2006.avi
