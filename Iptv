@@ -1,1 +1,10 @@
+{
+"name" : "vStream", "plugin" : 
+"plugin.video.vstream", 
+"search_movie" : "plugin://plugin.video.vstream/?function=showSearch&sCat=1&site=globalSearch&siteUrl=http%3a%2f%2fvenom&title=Recherche%20(Films)&action=activate&searchtext={title}/", 
+"search_episode" : "plugin://plugin.video.vstream/?function=showSearch&sCat=2&site=globalSearch&siteUrl=http%3a%2f%2fvenom&title=Recherche%20(S%c3%a9ries%2fAnim%c3%a9s)&action=activate&searchtext={showname}/"
+}
+
+
+
 
