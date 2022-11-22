@@ -368,6 +368,9 @@ http://venomtt.com:8000/live/kdcxxD1U/543545/3368.ts
 http://venomtt.com:8000/live/kdcxxD1U/543545/80996.ts
 
 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/prime-video.png" group-title="SPORT",Prime Video 1
+http://venomtt.com:8000/live/kdcxxD1U/543545/184114.ts
+
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/95/650/png-transparent-infosport-television-channel-logo-sky-news-sport-television-text-sport.png" group-title="SPORT",Infosport+
 http://venomtt.com:8000/live/kdcxxD1U/543545/81058.ts
 
