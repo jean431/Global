@@ -1,4 +1,4 @@
-9#EXTM3U x-tvg-url="https://xmltv.ch/xmltv/xmltv-complet.xml,http://bit.ly/tvguidefr,https://xmltv.ch/xmltv/xmltv-complet.xml,https://xmltvfr.fr/xmltv/xmltv_tnt.xml,https://iptv-org.github.io/epg/guides/fr_fr.xml"
+99#EXTM3U x-tvg-url="https://xmltv.ch/xmltv/xmltv-complet.xml,http://bit.ly/tvguidefr,https://xmltv.ch/xmltv/xmltv-complet.xml,https://xmltvfr.fr/xmltv/xmltv_tnt.xml,https://iptv-org.github.io/epg/guides/fr_fr.xml"
 
 
 
@@ -218,7 +218,7 @@ http://venomtt.com:8000/live/kdcxxD1U/543545/2537.ts
 http://venomtt.com:8000/live/kdcxxD1U/543545/46190.ts
 
 
-#EXTINF:-1 tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~84b8dbcf3066215a.png/1200x630/crop-from/top/quality/80/canal-top-14.png" group-title="SPORT",Canal+ Top14
+#EXTINF:-1 tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~84b8dbcf3066215a.png/1200x630/crop-from/top/quality/80/canal-top-14.png" group-title="SPORT",Canal+ Top 14
 http://red.ipfox.org:8080/Karam2022/Karam2023/48171
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Comedie+
