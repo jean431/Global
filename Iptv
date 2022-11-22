@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://xmltv.ch/xmltv/xmltv-complet.xml,http://bit.ly/tvguidefr,https://xmltv.ch/xmltv/xmltv-complet.xml,https://xmltvfr.fr/xmltv/xmltv_tnt.xml,https://iptv-org.github.io/epg/guides/fr_fr.xml"
+9#EXTM3U x-tvg-url="https://xmltv.ch/xmltv/xmltv-complet.xml,http://bit.ly/tvguidefr,https://xmltv.ch/xmltv/xmltv-complet.xml,https://xmltvfr.fr/xmltv/xmltv_tnt.xml,https://iptv-org.github.io/epg/guides/fr_fr.xml"
 
 
 
@@ -122,7 +122,7 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48155
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ Action
 http://venomtt.com:8000/live/kdcxxD1U/543545/237776.ts
 
-#EXTINF:-1 tvg-logo="https://ayanawebzine.com/wp-content/uploads/2019/11/canalellles-300x157.png" group-title="CANAL+",Canal+ Elles
+#EXTINF:-1 tvg-logo="https://ayanawebzine.com/wp-content/uploads/2019/11/canalellles-300x157.png" group-title="CANAL+",Canal+ ELLES
 http://venomtt.com:8000/live/kdcxxD1U/543545/237780.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ Pop
@@ -189,7 +189,7 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48068
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Novelastv
 http://red.ipfox.org:8080/Karam2022/Karam2023/48118
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/640866681053704193/Qj0TW2Qi_400x400.jpg" group-title="GENERALISTE",Nina Tv
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/640866681053704193/Qj0TW2Qi_400x400.jpg" group-title="GENERALISTE",NinaTV
 http://venomtt.com:8000/live/kdcxxD1U/543545/237673.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/OCS_Max.svg/2560px-OCS_Max.svg.png" group-title="FILM",OCS Max
@@ -204,7 +204,7 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48147
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Planete_plus_hd.png" group-title="DOCUMENTAIRE",Planete+
 http://red.ipfox.org:8080/Karam2022/Karam2023/48081
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/dd/Planetepluscrime.png" group-title="DOCUMENTAIRE",Planete+ CRIME
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/dd/Planetepluscrime.png" group-title="DOCUMENTAIRE",Planete+CRIME
 http://red.ipfox.org:8080/Karam2022/Karam2023/48079
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/PLAN%C3%88TE%2B_A%26E.png/320px-PLAN%C3%88TE%2B_A%26E.png" group-title="DOCUMENTAIRE",Planete+ A&E
@@ -371,7 +371,8 @@ http://venomtt.com:8000/live/kdcxxD1U/543545/80996.ts
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/95/650/png-transparent-infosport-television-channel-logo-sky-news-sport-television-text-sport.png" group-title="SPORT",Infosport+
 http://venomtt.com:8000/live/kdcxxD1U/543545/81058.ts
 
-
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/95/650/png-transparent-infosport-television-channel-logo-sky-news-sport-television-text-sport.png" group-title="SPORT",Canal+ SPORT360
+http://venomtt.com:8000/live/kdcxxD1U/543545/16398.ts
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",RMC 1
 http://venomtt.com:8000/live/kdcxxD1U/543545/81047.ts
