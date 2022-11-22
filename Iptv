@@ -1,4 +1,4 @@
-99#EXTM3U x-tvg-url="https://xmltv.ch/xmltv/xmltv-complet.xml,http://bit.ly/tvguidefr,https://xmltv.ch/xmltv/xmltv-complet.xml,https://xmltvfr.fr/xmltv/xmltv_tnt.xml,https://iptv-org.github.io/epg/guides/fr_fr.xml"
+#EXTM3U x-tvg-url="https://xmltv.ch/xmltv/xmltv-complet.xml,http://bit.ly/tvguidefr,https://xmltvfr.fr/xmltv/xmltv_fr.xml,https://xmltvfr.fr/xmltv/xmltv_tnt.xml,https://iptv-org.github.io/epg/guides/fr_fr.xml,https://iptv-org.github.io/epg/guides/fr/canalplus.com.epg.xml"
 
 
 
@@ -61,7 +61,7 @@ http://venomtt.com:8000/live/kdcxxD1U/543545/2637.ts
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",SYFY
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96541.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/76/13e_rue_2010_%28logo%29.svg/2044px-13e_rue_2010_%28logo%29.svg.png" group-title="GENERALISTE",13emeRue
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/76/13e_rue_2010_%28logo%29.svg/2044px-13e_rue_2010_%28logo%29.svg.png" group-title="GENERALISTE",13eme RUE
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96544.ts
 
 
@@ -305,7 +305,7 @@ http://venomtt.com:8000/live/kdcxxD1U/543545/237663.ts
 #EXTINF:-1 tvg-id="MTVHitsFrance"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/MTV_Hits_logo.png" group-title="MUSIC",MTV Hits France
 http://190.2.155.162:8080/mtvhit/mpegts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1200px-MTV_Logo.svg.png" group-title="MUSIC",MTVFrance
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1200px-MTV_Logo.svg.png" group-title="MUSIC",MTV France
 http://190.2.155.162:8080/mtvfrance/mpegts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Logo_Fun_Radio_%282021%29.svg/2560px-Logo_Fun_Radio_%282021%29.svg.png" group-title="MUSIC",Fun Radio
@@ -345,36 +345,29 @@ http://66.175.238.147:1935/live/myStream/chunklist.m3u8
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="SPORT",BEINSPORT 1
-http://venomtt.com:8000/live/kdcxxD1U/543545/156435.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORT",BEINsport 2
-http://93.152.174.144:4000/play/bein2fr/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="SPORT",BEINsport 3
-http://venomtt.com:8000/live/kdcxxD1U/543545/3370.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="SPORT",BEINsport 1 Hd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="SPORT",BEIN SPORTS HD 1 
 http://venomtt.com:8000/live/kdcxxD1U/543545/3370.ts
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_beIN_SPORTS_2.png" group-title="SPORT",BEINsport 2 Hd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_beIN_SPORTS_2.png" group-title="SPORT",BEIN SPORTS HD 2
 http://venomtt.com:8000/live/kdcxxD1U/543545/3369.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_beIN_SPORTS_3.png" group-title="SPORT",BEINsport 3 Hd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_beIN_SPORTS_3.png" group-title="SPORT",BEIN SPORTS HD 3
 http://venomtt.com:8000/live/kdcxxD1U/543545/3368.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORT",Canal+ Sport
 http://venomtt.com:8000/live/kdcxxD1U/543545/80996.ts
 
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/prime-video.png" group-title="SPORT",Prime Video 1
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/prime-video.png" group-title="SPORT",Prime Video 
 http://venomtt.com:8000/live/kdcxxD1U/543545/184114.ts
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/95/650/png-transparent-infosport-television-channel-logo-sky-news-sport-television-text-sport.png" group-title="SPORT",Infosport+
 http://venomtt.com:8000/live/kdcxxD1U/543545/81058.ts
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/95/650/png-transparent-infosport-television-channel-logo-sky-news-sport-television-text-sport.png" group-title="SPORT",Canal+ SPORT360
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/95/650/png-transparent-infosport-television-channel-logo-sky-news-sport-television-text-sport.png" group-title="SPORT",Canal+ SPORT 360
 http://venomtt.com:8000/live/kdcxxD1U/543545/16398.ts
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",RMC 1
