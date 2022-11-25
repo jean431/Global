@@ -370,7 +370,7 @@ http://venomtt.com:8000/live/kdcxxD1U/543545/184114.ts
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/95/650/png-transparent-infosport-television-channel-logo-sky-news-sport-television-text-sport.png" group-title="SPORT",Infosport+
 http://venomtt.com:8000/live/kdcxxD1U/543545/81058.ts
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/95/650/png-transparent-infosport-television-channel-logo-sky-news-sport-television-text-sport.png" group-title="SPORT",Canal+ SPORT 360
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="SPORT",Canal+ SPORT 360
 http://venomtt.com:8000/live/kdcxxD1U/543545/16398.ts
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",RMC 1
