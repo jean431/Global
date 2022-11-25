@@ -68,6 +68,10 @@ http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96541.ts
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96544.ts
 
 
+
+#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",BET France
+http://venomtt.com:8000/live/kdcxxD1U/543545/46200.ts
+
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",RTL9
 http://red.ipfox.org:8080/Karam2022/Karam2023/48119
 
